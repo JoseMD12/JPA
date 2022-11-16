@@ -1,0 +1,5 @@
+br\com\alura\jose\util\FactoryEM.class
+br\com\alura\jose\modelo\Produto.class
+br\com\alura\jose\modelo\Categoria.class
+br\com\alura\jose\App.class
+br\com\alura\jose\dao\ProdutoDAO.class
